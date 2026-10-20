@@ -47,3 +47,6 @@ mokepon/
 ```
 
 Las dependencias directas son `express` y `cors`.
+
+
+https://platzi.com/p/simoncardona1011/curso/3208-programacion-basica-2022/diploma/detalle/
