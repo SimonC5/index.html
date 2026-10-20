@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title">
+  <title id="title">Hipodoge, Mokepon de agua</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#bae6fd"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#60c5e8"/>
+      <stop offset="1" stop-color="#287fb8"/>
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="114" fill="url(#background)"/>
+  <circle cx="120" cy="120" r="105" fill="none" stroke="#e0f2fe" stroke-opacity=".8" stroke-width="3"/>
+  <path d="M48 139c0-35 26-64 67-70 39-6 78 15 83 51 4 29-17 57-55 65-41 9-83-2-93-24-2-6-2-14-2-22Z" fill="url(#skin)" stroke="#174c78" stroke-width="5"/>
+  <path d="M73 97 63 72c-2-7 6-12 12-7l28 21m64 10 19-24c5-6 14-2 12 6l-8 31" fill="#42a7d0" stroke="#174c78" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M84 121c11-10 23-11 33-3m34-6c11-8 23-7 31 2" fill="none" stroke="#174c78" stroke-width="6" stroke-linecap="round"/>
+  <ellipse cx="104" cy="125" rx="5" ry="7" fill="#082f49"/>
+  <ellipse cx="164" cy="119" rx="5" ry="7" fill="#082f49"/>
+  <path d="M96 151c17 15 49 16 70-1" fill="none" stroke="#174c78" stroke-width="5" stroke-linecap="round"/>
+  <path d="M108 149c4 12 10 18 17 19 8-1 14-8 18-20" fill="#f8fafc" stroke="#174c78" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M55 165c-13-2-22-10-24-19 13-5 25 0 31 12m144-29c12-8 24-7 31 1-7 12-19 17-31 11" fill="#e0f2fe" stroke="#0284c7" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M76 181c-5 11-4 20 4 24 10 1 17-6 20-19m45 7c1 11 7 17 17 16 7-4 9-12 5-22" fill="#286f9f" stroke="#174c78" stroke-width="4" stroke-linecap="round"/>
+  <path d="M112 66c-8-15-5-28 4-39 11 9 14 21 9 35m17 2c0-17 9-29 21-34 6 14 3 27-8 37" fill="#34d399" stroke="#047857" stroke-width="4" stroke-linejoin="round"/>
+</svg>
